@@ -8,7 +8,7 @@ body {
 
 /* Cabeçalho */
 header {
-  background-color: #00fe26;
+  background-color: #ff7e00;
   padding: 15px 0;
   color: white;
 }
@@ -67,7 +67,7 @@ header nav ul li a:hover {
 
 .hero .btn {
   background-color: #fff;
-  color: #ff7e00;
+  color: #000000;
   font-size: 18px;
   padding: 12px 20px;
   border: none;
